@@ -3,7 +3,7 @@ I'm Yago Moura, I graduated as an Industrial Automation Engineer and during the 
 
 Despite having a great experience in the tech world as a Product Manager Intern, I still believed the industrial scene was my thing. Well, 3 years as an Automation Engineer have proven me wrong.
 
-Going back and studying different technologies such as Python and Ruby on Rails, I'm now in search for an oportunity to enter the software development world.
+Going back and studying different technologies such as Python and Ruby on Rails, I'm now in search of an opportunity to enter the software development world.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yago-de-moura-87874313b)
 
