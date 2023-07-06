@@ -5,7 +5,7 @@ Despite having a great experience in the tech world as a Product Manager Intern,
 
 Going back and studying different technologies such as Python and Ruby on Rails, I'm now in search of an opportunity to enter the software development world.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yago-de-moura-87874313b)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-de-moura-87874313b)
 
 # Tech Knowledge  💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
